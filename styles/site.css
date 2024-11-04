@@ -253,3 +253,6 @@ blockquote p {
     order: 2;
   }
 }
+.hidden {
+  display: none; !important
+}
